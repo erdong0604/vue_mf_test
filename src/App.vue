@@ -1,5 +1,5 @@
 <template>
-  <div id="app">2222</div>
+  <div id="app">修改内容</div>
 </template>
 
 <style lang="stylus">
